@@ -1,0 +1,1 @@
+You can reach the Application on http://localhost:5000. It was developed with JetBrains Rider (Evaluation).
